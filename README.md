@@ -1,5 +1,5 @@
 # finalCapstone.
-Capstone Projects from HyperionDev bootcamp
+Capstone Project from HyperionDev bootcamp
 
 A python based inventory management system for shoes.
 Allows reading from a file, capturing new data, viewing all shoes,
