@@ -9,4 +9,6 @@ displaying the total value for each shoe and displaying the shoes with the highe
 Shoe class includes attributes such as country, code, product, cost, quantity, and methods for getting cost and quantity.
 
 Utilizes functions: 
-read_shoes_data, capture_shoes, view_all, re_stock and a file inventory.txt.
+read_shoes_data, capture_shoes, view_all, re_stock, seach_shoe, value_per_item, highest qty 
+
+Reads from file inventory.txt.
